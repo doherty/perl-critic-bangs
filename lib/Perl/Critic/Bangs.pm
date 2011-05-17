@@ -128,7 +128,7 @@ Thanks to
 
 =back
 
-=head1 COPYRIGHT & LICENSE
+=head1 COPYRIGHT
 
 Copyright 2006-2011 Andy Lester.
 
