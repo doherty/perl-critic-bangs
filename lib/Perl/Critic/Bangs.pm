@@ -11,11 +11,11 @@ Perl::Critic::Bangs - A collection of handy Perl::Critic policies
 
 =head1 VERSION
 
-Version 1.07_01
+Version 1.07_02
 
 =cut
 
-our $VERSION = '1.07_01';
+our $VERSION = '1.07_02';
 
 =head1 SYNOPSIS
 

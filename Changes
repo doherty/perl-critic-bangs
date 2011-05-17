@@ -1,6 +1,6 @@
 Revision history for Perl-Critic-Bangs
 
-1.07_02
+1.07_02 Tue May 17 11:06:41 CDT 2011
 ====================================
 [ENHANCEMENTS]
 The list of bitwise operators prohibited is now:
