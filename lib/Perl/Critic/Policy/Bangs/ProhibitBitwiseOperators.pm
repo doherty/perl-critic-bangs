@@ -24,7 +24,7 @@ sub applies_to           { return 'PPI::Token::Operator' }
 
 #-----------------------------------------------------------------------------
 
-my %bitwise_operators = hashify( qw( & | ^ ~ ) );
+my %bitwise_operators = hashify( qw( & | ^ ~ &= |= ^= ) );
 
 sub violates {
     my ( $self, $elem, undef ) = @_;
